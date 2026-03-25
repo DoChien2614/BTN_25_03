@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_to_cart">Add to Cart (Nhặt hàng)</string>
+    <string name="app_name">Shopping App</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="checkout">Checkout</string>
+    <string name="customer_format">Customer: %s</string>
+    <string name="date_format">Date: %s</string>
+    <string name="invoice">INVOICE</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="order_id_format">Order ID: #%d</string>
+    <string name="password">Password</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="qty_price_format">Qty: %d x $%.2f</string>
+    <string name="total_format">Total: $%.2f</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme._25thang3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme._25thang3" parent="Base.Theme._25thang3"/>
+</resources>
